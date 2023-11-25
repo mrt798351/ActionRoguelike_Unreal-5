@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\snake\\actionroguelike_unreal-5\\actionroguelike\\intermediate\\build\\win64\\unrealeditor\\inc\\actionroguelike\\uht\\actionroguelike.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\snake\\actionroguelike_unreal-5\\actionroguelike\\intermediate\\build\\win64\\x64\\actionroguelikeeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "f:\\snake\\actionroguelike_unreal-5\\actionroguelike\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\actionroguelike\\definitions.actionroguelike.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
